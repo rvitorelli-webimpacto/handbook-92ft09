@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rvitorelli-webimpacto.github.io/handbook-92ft09/sitemap.xml
